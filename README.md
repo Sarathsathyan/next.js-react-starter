@@ -7,8 +7,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Layouts and Pages
 <!-- Topics -->
-# file system routing
-# Understand role of folders and files when creating new route segments
-# Nested layouts that can be shared between multiple dashboard pages
-# colocation, partial rendering and root layouts
-# https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
+### file system routing
+### Understand role of folders and files when creating new route segments
+### Nested layouts that can be shared between multiple dashboard pages
+### colocation, partial rendering and root layouts
+### https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
